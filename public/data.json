@@ -1,0 +1,93 @@
+[
+    {
+      "id":1,
+      "image": "https://i.ibb.co/0mbnWqc/Rectangle-2-2.png",
+      "title": "Introduction to C programming ",
+      "description": "Learn the fundamentals of C programming with this introductory course. Master the basics of variables, functions, and control flow in the C language",
+      "dollarIcon": "https://i.ibb.co/SwPmxDm/dollar-sign-1.png",
+      "price": 19.99,
+      "bookIcon": "https://i.ibb.co/3083XPy/Frame.png",
+      "creditInHours": 2
+    },
+    {
+      "id":2,
+      "image": "https://i.ibb.co/M7SXrpL/Rectangle-2-3.png",
+      "title": "Introduction to basic Algorithms",
+      "description": "Dive into the world of algorithms with this comprehensive course. Explore fundamental algorithms and data structures used in computer science and problem-solving.",
+      "dollarIcon": "https://i.ibb.co/SwPmxDm/dollar-sign-1.png",
+      "price": 24.99,
+      "bookIcon": "https://i.ibb.co/3083XPy/Frame.png",
+      "creditInHours": 3
+    },
+    {
+      "id":3,
+      "image": "https://i.ibb.co/xfdQpqJ/Rectangle-2-4.png",
+      "title": "Introduction to C++ for DSA",
+      "description": "Get started with C++ programming in the context of data structures and algorithms. Learn how to implement data structures like stacks, queues, and trees.",
+      "dollarIcon": "https://i.ibb.co/SwPmxDm/dollar-sign-1.png",
+      "price": 14.99,
+      "bookIcon": "https://i.ibb.co/3083XPy/Frame.png",
+      "creditInHours": 4
+    },
+    {
+      "id":4,
+      "image": "https://i.ibb.co/3B1kpfZ/Rectangle-3.png",
+      "title": "Basic Data Structures",
+      "description": "Build a solid foundation in data structures. This course covers essential data structures such as arrays, linked lists, and hash tables, crucial for software development.",
+      "dollarIcon": "https://i.ibb.co/SwPmxDm/dollar-sign-1.png",
+      "price": 34.99,
+      "bookIcon": "https://i.ibb.co/3083XPy/Frame.png",
+      "creditInHours": 2
+    },
+    {
+      "id":5,
+      "image": "https://i.ibb.co/h73dBXj/Rectangle-2.png",
+      "title": "Introduction to oop python",
+      "description": "Discover the principles of object-oriented programming in Python. Learn how to create classes, objects, and implement inheritance and encapsulation.",
+      "dollarIcon": "https://i.ibb.co/SwPmxDm/dollar-sign-1.png",
+      "price": 9.99,
+      "bookIcon": "https://i.ibb.co/3083XPy/Frame.png",
+      "creditInHours": 5
+    },
+    {
+      "id":6,
+      "image": "https://i.ibb.co/s2fsMqL/Rectangle-2-5.png",
+      "title": "Software engineering ",
+      "description": "Explore the principles and practices of software engineering. Gain insights into the software development lifecycle, design patterns, and best practices.",
+      "dollarIcon": "https://i.ibb.co/SwPmxDm/dollar-sign-1.png",
+      "price": 49.99,
+      "bookIcon": "https://i.ibb.co/3083XPy/Frame.png",
+      "creditInHours": 3
+    },
+    {
+      "id":7,
+      "image": "https://i.ibb.co/z4dy5yb/Rectangle-3-1.png",
+      "title": "aws cloud computing",
+      "description": "Unlock the power of AWS cloud computing. Learn how to deploy, manage, and scale applications on the Amazon Web Services cloud platform.",
+      "dollarIcon": "https://i.ibb.co/SwPmxDm/dollar-sign-1.png",
+      "price": 29.99,
+      "bookIcon": "https://i.ibb.co/3083XPy/Frame.png",
+      "creditInHours": 4
+    },
+    {
+      "id":8,
+      "image": "https://i.ibb.co/rpTZJrN/Rectangle-2-1.png",
+      "title": "database mysql",
+      "description": "Dive into the world of relational databases with MySQL. Learn how to design database schemas, write SQL queries, and manage data effectively.",
+      "dollarIcon": "https://i.ibb.co/SwPmxDm/dollar-sign-1.png",
+      "price": 16.99,
+      "bookIcon": "https://i.ibb.co/3083XPy/Frame.png",
+      "creditInHours": 6
+    },
+    {
+      "id":9,
+      "image": "https://i.ibb.co/StpWkfg/Rectangle-2-6.png",
+      "title": "Problem solving part",
+      "description": "Sharpen your problem-solving skills with this course. Practice coding challenges, algorithms, and techniques to tackle complex programming problems.",
+      "dollarIcon": "https://i.ibb.co/SwPmxDm/dollar-sign-1.png",
+      "price": 39.99,
+      "bookIcon": "https://i.ibb.co/3083XPy/Frame.png",
+      "creditInHours": 2
+    }
+  ]
+  
